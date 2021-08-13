@@ -1,0 +1,6 @@
+*.class
+*.log
+*.iml
+out/
+.idea/
+static&non-static_methods.iml
